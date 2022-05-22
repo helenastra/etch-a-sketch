@@ -1,0 +1,36 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Chalkduster, fantasy;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.board {
+    background-color: #C19A6B;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 200px;
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: #346b31;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    color: white;
+    margin-top: auto;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+}
