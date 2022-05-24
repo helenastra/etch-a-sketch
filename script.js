@@ -49,4 +49,4 @@ function reSize() {
     }
 }
 
-createBoard(16, 16)
+createBoard(50, 50)
