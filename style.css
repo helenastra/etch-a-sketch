@@ -53,6 +53,7 @@ body {
     height: 40px;
     transition: 100ms;
     cursor: pointer;
+    background-color: white;
 }
 
 .button:hover {
